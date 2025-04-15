@@ -44,3 +44,26 @@ body {
     border-radius: 5px;
 }
 
+.subcontainer-info {
+    padding: 10px 20px 20px;
+}
+
+.subcontainer-info h2 {
+    color: #333;
+}
+
+.subcontainer-info p {
+    margin-bottom: 20px;
+}
+
+.subcontainer-info a {
+    width: 60%;
+    max-width: 400px;
+    min-width: 240px;
+    font-size: 14px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
